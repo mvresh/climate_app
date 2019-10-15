@@ -18,3 +18,12 @@ dev_dependencies:
 flutter:
 
   uses-material-design: true
+  assets:
+    - assets/BL03THINKMIGRATE1.jpg
+    - assets/farmers-social-reutersa.jpg
+
+  fonts:
+    - family: SpartanMB
+      fonts:
+        - asset: assets/SpartanMB-Extra-Bold.otf
+
